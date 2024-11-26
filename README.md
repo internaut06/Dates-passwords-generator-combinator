@@ -20,7 +20,7 @@ This application can:
 
 you need to download aircrack-ng from https://www.aircrack-ng.org for windows, extract the archive and specify the path to aircrack-ng.exe
 
-this application is coded with Lazarus on windows 10
+This application is coded with Lazarus on windows 10
 
 ## Disclaimer
 
